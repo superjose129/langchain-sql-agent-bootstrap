@@ -1,0 +1,9 @@
+/* src/components/main-content-container/TablesComponent/TablesComponent.module.css */
+
+
+
+  @media screen and (max-width: 600px) {
+    .tableContainer {
+      width: 100%;
+    }
+  }

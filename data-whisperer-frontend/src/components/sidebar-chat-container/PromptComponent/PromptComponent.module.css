@@ -1,0 +1,19 @@
+/* PromptComponent.module.css */
+.Prompt {
+    width: auto;
+    height: 400px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .inputContainer {
+  }
+
+  .outputBox {
+    flex-grow: 3;
+    max-width: 100%;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
